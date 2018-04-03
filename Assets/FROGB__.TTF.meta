@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cdb909dfcf832934bb22a8a18d0e6aed
+timeCreated: 1511509537
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Frog
+  fontNames:
+  - Frog
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c0835e6a201cd34d97acf73b05cd7b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
